@@ -1,7 +1,6 @@
 ## rsschool-cv
 ------------
 # Markova Anastasiya
-![Markova Anastasiya](C:\Users\SNR\Downloads\IMG_1069.jpg)
 -------------------
 ## Junior Frontend Developer
 ===========================
@@ -23,12 +22,8 @@
 - VS Code
 - Git
 ------------
-### Code Example
-
-
-
 ### Work experience:
-*Nothing yet… but I really want!*
+_Nothing yet… but I really want!_
 ---------------
 ### Courses:
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
@@ -37,6 +32,4 @@
 ### Languages:
 - Russian native
 - English - Intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
-My > level of English is in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
-![EF Test](C:\Users\SNR\Desktop\EF test.png)
-
+My <level of English is in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR)>.
