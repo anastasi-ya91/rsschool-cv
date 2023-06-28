@@ -28,6 +28,7 @@ _a few projects in RSschool_
 ### Courses:
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 - RS Schools Course «JavaScript/Front-end»
+- https://www.freecodecamp.org/ - Responsive Web Design
 --------------------
 ### Languages:
 - Russian native
