@@ -12,7 +12,7 @@
 - **GitHub:** [anastasi-ya91](https://github.com/anastasi-ya91)
 ---------------------------------
 ### About me
-- I am learning JavaScript Front-End Pre-School in RSSchool and I want to become a developer.
+- I am learning JavaScript Front-End in RSSchool and I will be a developer.
 - I am a lawyer (legal adviser) and have been working in notarial practice for the last few years.
 ---------------------------------
 ### Skills and Proficiency
