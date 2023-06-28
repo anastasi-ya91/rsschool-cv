@@ -6,7 +6,7 @@
 ===========================
 
 ### Contacts:
-- **Phone:** +79615152152
+- **Phone:** +7961
 - **E-mail:** a.v.markova00@gmail.com
 - **Telegram:** @anastasiya_m91
 - **GitHub:** [anastasi-ya91](https://github.com/anastasi-ya91)
@@ -15,7 +15,7 @@
 - I am learning JavaScript Front-End Pre-School in RSSchool and I want to become a developer.
 - I am a lawyer (legal adviser) and have been working in notarial practice for the last few years.
 ---------------------------------
-### Skills and Proficiency (after learning in RSSchool)
+### Skills and Proficiency
 - HTML
 - CSS
 - JavaScript Basic
@@ -23,11 +23,11 @@
 - Git
 ------------
 ### Work experience:
-_Nothing yet… but I really want!_
+_a few projects in RSschool_
 ---------------
 ### Courses:
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end»
 --------------------
 ### Languages:
 - Russian native
